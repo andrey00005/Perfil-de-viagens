@@ -18,7 +18,7 @@ Antes de fazer esse projeto, tive várias aulas sobre Flexbox e esse foi meu pri
 - `display: flex` pra organizar o layout
 - `flex-direction` pra alinhar os elementos em coluna
 - `justify-content` e `align-items` pra controlar alinhamento
-- `flex-wrap` pra testar comportamento responsivo
+- `flex-wrap` para que os elementos quebrem a linha quando necessário
 
 Além disso, organizei o CSS dividindo em múltiplos arquivos, e centralizei os imports em um único arquivo principal. Isso ajudou a manter a estrutura mais limpa e modular.
 
@@ -34,4 +34,4 @@ Mesmo sendo um projeto guiado, foi ótimo ver como os conceitos que estudei fize
 
 ---
 
-Próximo passo: seguir praticando e quando chegar nas aulas de responsividade para mobile, voltar nesse projeto e deixar ele adaptado pra diferentes telas.
+Próximo passo: seguir praticando e quando chegar nas aulas de responsividade para mobile (que falta pouco) voltar nesse projeto e deixar ele adaptado pra diferentes telas.
