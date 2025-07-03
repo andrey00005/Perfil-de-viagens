@@ -1,6 +1,6 @@
 # Projeto: Perfil de Viagens 🌍
 
-![apresentacão do desafio](assets/apresentacao.PNG)
+![apresentacão do desafio](assets/apresentacao.png)
 
 Este projeto foi feito como parte das aulas da Rocketseat, onde o desafio era criar uma página simples exibindo o perfil de uma pessoa viajante com nome, descrição e uma lista de países visitados.
 
