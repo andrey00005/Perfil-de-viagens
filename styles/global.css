@@ -23,5 +23,26 @@
 
 body {
   color: var(--text-color-secondary);
-  background-color: var(--text-color-primary);
+  /* background-color: var(--text-color-primary); */
+}
+
+a {
+  text-decoration: none;
+  color: inherit; /* herdada do pai */
+}
+
+a:hover {
+  color: var(--brand-color);
+  text-decoration: underline;
+}
+
+.container {
+  margin: auto;
+  max-width: 1280px;
+  padding-inline: 32px;
+}
+
+.bf-surface-color {
+  background-color: var(--surface-color);
+
 }
