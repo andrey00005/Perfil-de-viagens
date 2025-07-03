@@ -35,3 +35,7 @@ Mesmo sendo um projeto guiado, foi ótimo ver como os conceitos que estudei fize
 ---
 
 Próximo passo: seguir praticando e quando chegar nas aulas de responsividade para mobile (que falta pouco) voltar nesse projeto e deixar ele adaptado pra diferentes telas.
+
+## 🔗 Link do projeto:
+[Abrir Projeto](https://andrey00005.github.io/Perfil-de-viagens/)
+
