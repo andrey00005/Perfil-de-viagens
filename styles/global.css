@@ -22,8 +22,9 @@
 }
 
 body {
+  font: var(--text);
   color: var(--text-color-secondary);
-  /* background-color: var(--text-color-primary); */
+  background-color: var(--background-color);
 }
 
 a {
